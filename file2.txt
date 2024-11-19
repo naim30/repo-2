@@ -1,4 +1,0 @@
-This is second file
-
-And this is second line of second file
-
